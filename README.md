@@ -1,4 +1,5 @@
 # AutoCAD & Fabrication Training Program
+*Last updated: March 2026*
 
 **Status:** Active | **Cohorts completed:** 1 | **Participants:** 30+
 
